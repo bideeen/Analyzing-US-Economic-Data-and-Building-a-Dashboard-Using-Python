@@ -3,4 +3,4 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 
 
 
-https://github.com/bideeen/Analyzing-US-Economic-Data-and-Building-a-Dashboard-Using-Python/blob/master/us.png
+![SCREENSHOT OF DASHBOARD of Unemployement stats according to GDP](https://github.com/bideeen/Analyzing-US-Economic-Data-and-Building-a-Dashboard-Using-Python/blob/master/us.png)
